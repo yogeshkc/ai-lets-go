@@ -1,0 +1,11 @@
+# Core dependencies
+pytest==7.4.3
+python-dotenv==1.0.0
+requests==2.31.0
+autogen-agentchat~=0.2
+autogen==0.4.1
+
+# Development dependencies
+black==23.11.0
+flake8==6.1.0
+isort==5.12.0
